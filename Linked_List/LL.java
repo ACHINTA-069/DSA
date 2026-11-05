@@ -117,5 +117,6 @@ class LL{
         //check the print function after add one node
         list.addLast("boy");
         System.out.print(list.getSize());
+        
     }
 }
